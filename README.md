@@ -13,12 +13,27 @@ Github is cloud based, which means is a place (website) where u can send your re
 ---
 ## Initial Setup
 
-
+mkdir <name> #to create a dic.
+cd <name> #to go into the dic.
+touch <name> #to create a file.
+c9 <name> #to go into the file.
+git add <nameofthefileordic> #to be able to commit
+git commit -m "<message>" #to save the changes.
 
 ---
 ## Repository Setup
 
-
+git remote add origin <link> #to setup
+git push -u origin master #to push the saves into the repo.
 
 ---
 ## Workflow & Commands
+
+mkdir <name> 
+cd <name>
+touch <name> 
+c9 <name> 
+git add <nameofthefileordic> 
+git commit -m "<message>"
+git remote add origin <link> 
+git push -u origin master 
