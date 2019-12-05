@@ -29,11 +29,15 @@ git push -u origin master #to push the saves into the repo.
 ---
 ## Workflow & Commands
 
-mkdir <name> 
+mkdir <name>
 cd <name>
-touch <name> 
-c9 <name> 
-git add <nameofthefileordic> 
+touch <name>
+c9 <name>
+git add <nameofthefileordic>
 git commit -m "<message>"
-git remote add origin <link> 
-git push -u origin master 
+git remote add origin <link>
+git push -u origin master
+
+
+### Feedback
+I think you should explain things in a simplier way, simple enough that even a 1st grader can probably understand it. I don't think you should abbreviate directory,because they won't know what is dic.
